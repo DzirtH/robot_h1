@@ -79,8 +79,8 @@ Test policy transfer in simulation:
 python sim2sim.py
 ```
 Notes
-  Make sure all paths are correctly set according to your system configuration
+ * Make sure all paths are correctly set according to your system configuration
 
-  Ensure proper CUDA version compatibility with your GPU drivers
+ * Ensure proper CUDA version compatibility with your GPU drivers
 
-  For sim-to-real deployment, additional hardware-specific configurations may be required
+ * For sim-to-real deployment, additional hardware-specific configurations may be required
